@@ -1,0 +1,22 @@
+{
+  "name": "Coding Academy",
+  "short_name": "Coding Ac.",
+  "description": "Finest Web Coding Workshops in Canada since 2015",
+  "lang": "en-CA",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#343a40",
+  "background_color": "#343a40",
+  "start_url": "http://www.coding-academy.ca",
+  "display": "standalone"
+}
